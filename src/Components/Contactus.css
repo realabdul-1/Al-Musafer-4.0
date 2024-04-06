@@ -1,0 +1,755 @@
+.contact-us {
+  background-color: #fdfdfd;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contact-us .div {
+  background-color: #fdfdfd;
+  height: 2728.33px;
+  position: relative;
+  width: 1903px;
+}
+
+.contact-us .header {
+  background-color: transparent;
+  background-image: url(../public/header.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 184px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1903px;
+}
+
+.contact-us .navbar {
+  height: 41px;
+  left: 614px;
+  position: absolute;
+  top: 74px;
+  width: 591px;
+}
+
+.contact-us .item-link-home {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: 30px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.contact-us .item-link-fleet {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: 102px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.contact-us .item-link-quote {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: 181px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.contact-us .item-link-reviews {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: 266px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.contact-us .item {
+  height: 33px;
+  left: 368px;
+  position: absolute;
+  top: 23px;
+  width: 89px;
+}
+
+.contact-us .link-services {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: -2px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.contact-us .pseudo {
+  height: 7px;
+  left: 82px;
+  position: absolute;
+  top: 7px;
+  width: 7px;
+}
+
+.contact-us .item-link-contact-us {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: 488px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.contact-us .overlap-group {
+  height: 67px;
+  left: 1266px;
+  position: absolute;
+  top: 64px;
+  width: 498px;
+}
+
+.contact-us .contact {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5.97px;
+  left: 0;
+  padding: 0px 72.48px 0.34px 0px;
+  position: absolute;
+  top: 4px;
+}
+
+.contact-us .link {
+  color: #e7c13c;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact-us .link-info {
+  color: #e5e5e5;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact-us .element-f {
+  height: 67px;
+  left: 278px;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.contact-us .text-wrapper {
+  color: #ffffff;
+  font-family: "Baloo Paaji-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 34px;
+  left: 348px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 18px;
+  width: 150px;
+}
+
+.contact-us .logo {
+  height: 158px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: -11px;
+  width: 300px;
+}
+
+.contact-us .section {
+  height: 17px;
+  left: 382px;
+  position: absolute;
+  top: 234px;
+  width: 1140px;
+}
+
+.contact-us .link-main {
+  color: #cdd5da;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17.4px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.contact-us .text-wrapper-2 {
+  color: #cdd5da;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: 17.4px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.contact-us .text-wrapper-3 {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 17.4px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 87px;
+}
+
+.contact-us .section-2 {
+  height: 1221px;
+  left: 478px;
+  position: absolute;
+  top: 316px;
+  width: 946px;
+}
+
+.contact-us .contact-2 {
+  color: #323232;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 42px;
+  left: 365px;
+  letter-spacing: 0;
+  line-height: 43.6px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+  width: 217px;
+}
+
+.contact-us .div-contacts-items {
+  height: 582px;
+  left: 0;
+  position: absolute;
+  top: 94px;
+  width: 946px;
+}
+
+.contact-us .div-contacts-item {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #778892;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 946px;
+}
+
+.contact-us .text-wrapper-4 {
+  color: #323232;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  left: 442px;
+  letter-spacing: 0;
+  line-height: 17.4px;
+  position: absolute;
+  text-align: center;
+  top: 52px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.contact-us .text-wrapper-5 {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 38px;
+  font-weight: 400;
+  height: 47px;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: 42.5px;
+  position: absolute;
+  text-align: center;
+  top: 84px;
+  white-space: nowrap;
+  width: 266px;
+}
+
+.contact-us .div-contacts-item-2 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #778892;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 180px;
+  width: 946px;
+}
+
+.contact-us .text-wrapper-6 {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 38px;
+  font-weight: 400;
+  height: 47px;
+  left: 171px;
+  letter-spacing: 0;
+  line-height: 42.5px;
+  position: absolute;
+  text-align: center;
+  top: 84px;
+  white-space: nowrap;
+  width: 603px;
+}
+
+.contact-us .div-contacts-item-3 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #778892;
+  height: 222px;
+  left: 0;
+  position: absolute;
+  top: 360px;
+  width: 946px;
+}
+
+.contact-us .text-wrapper-7 {
+  color: #323232;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  left: 429px;
+  letter-spacing: 0;
+  line-height: 17.4px;
+  position: absolute;
+  text-align: center;
+  top: 52px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.contact-us .div-contacts-value {
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 88px;
+  width: 946px;
+}
+
+.contact-us .element-ST-MECCA-KING {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 38px;
+  font-weight: 400;
+  height: 90px;
+  left: 134px;
+  letter-spacing: 0;
+  line-height: 42.5px;
+  position: absolute;
+  text-align: center;
+  top: -4px;
+  width: 678px;
+}
+
+.contact-us .iframe {
+  height: 515px;
+  left: 96px;
+  position: absolute;
+  top: 706px;
+  width: 754px;
+}
+
+.contact-us .body {
+  height: 515px;
+}
+
+.contact-us .div-mapdiv {
+  height: 515px;
+  overflow: hidden;
+  width: 754px;
+}
+
+.contact-us .div-hd-fafbd {
+  background-color: #e5e3df;
+  height: 515px;
+  position: relative;
+  width: 755px;
+}
+
+.contact-us .image {
+  height: 515px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 754px;
+}
+
+.contact-us .overlap {
+  height: 712px;
+  left: 382px;
+  position: absolute;
+  top: 1707px;
+  width: 1140px;
+}
+
+.contact-us .you-have-questions {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 42px;
+  left: 307px;
+  letter-spacing: 0;
+  line-height: 43.6px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 526px;
+}
+
+.contact-us .form-form-wrapper {
+  height: 711px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1140px;
+}
+
+.contact-us .form-form {
+  height: 572px;
+  position: relative;
+  top: 139px;
+}
+
+.contact-us .div-form-top {
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1140px;
+}
+
+.contact-us .div-form-wrap-input {
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 365px;
+}
+
+.contact-us .label-your-name {
+  color: #99a0a4;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.contact-us .input {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #778892;
+  border-radius: 4px;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 43px;
+  width: 365px;
+}
+
+.contact-us .div-form-wrap-input-2 {
+  height: 109px;
+  left: 388px;
+  position: absolute;
+  top: 0;
+  width: 365px;
+}
+
+.contact-us .label-e-mail {
+  color: #99a0a4;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.contact-us .div-form-wrap-input-3 {
+  height: 109px;
+  left: 775px;
+  position: absolute;
+  top: 0;
+  width: 365px;
+}
+
+.contact-us .label-phone-number {
+  color: #99a0a4;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.contact-us .div-form-bot {
+  height: 393px;
+  left: 0;
+  position: absolute;
+  top: 179px;
+  width: 1140px;
+}
+
+.contact-us .label-message {
+  color: #99a0a4;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.contact-us .textarea {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #778892;
+  border-radius: 4px;
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 1140px;
+}
+
+.contact-us .input-send {
+  color: #000000;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 23px;
+  font-weight: 400;
+  height: 28px;
+  left: 876px;
+  letter-spacing: 5.06px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 363px;
+  white-space: nowrap;
+  width: 83px;
+}
+
+.contact-us .footer {
+  background-color: #3a3b42;
+  height: 226px;
+  left: 0;
+  position: absolute;
+  top: 2502px;
+  width: 1903px;
+}
+
+.contact-us .img {
+  height: 180px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: -7px;
+  width: 300px;
+}
+
+.contact-us .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 22px;
+  left: 134px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 177px;
+}
+
+.contact-us .saudi-business {
+  height: 110px;
+  left: 1631px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 112px;
+}
+
+.contact-us .info {
+  height: 78px;
+  left: 382px;
+  position: absolute;
+  top: 74px;
+  width: 1140px;
+}
+
+.contact-us .explore {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 54px;
+  left: 373px;
+  padding: 0px 0.01px 0px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.contact-us .list {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0px 14.63px 0px 0px;
+  position: relative;
+}
+
+.contact-us .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact-us .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact-us .list-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0px 29.44px 0px 0px;
+  position: relative;
+}
+
+.contact-us .list-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0px 38.7px 0px 0px;
+  position: relative;
+}
+
+.contact-us .contact-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5.97px;
+  left: 906px;
+  padding: 0px 70.8px 0.34px 0px;
+  position: absolute;
+  top: -1px;
+}

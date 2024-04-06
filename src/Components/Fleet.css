@@ -1,0 +1,1588 @@
+.fleet {
+  background-color: #fdfdfd;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.fleet .div {
+  background-color: #fdfdfd;
+  height: 2948.03px;
+  position: relative;
+  width: 1903px;
+}
+
+.fleet .header {
+  background-color: transparent;
+  background-image: url(../public/header.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 184px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1903px;
+}
+
+.fleet .navbar {
+  height: 41px;
+  left: 614px;
+  position: absolute;
+  top: 74px;
+  width: 591px;
+}
+
+.fleet .item-link-home {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: 30px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.fleet .item-link-fleet {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: 102px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.fleet .item-link-quote {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: 181px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.fleet .item-link-reviews {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: 266px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.fleet .item {
+  height: 33px;
+  left: 368px;
+  position: absolute;
+  top: 23px;
+  width: 89px;
+}
+
+.fleet .link-services {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: -2px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.fleet .pseudo {
+  height: 7px;
+  left: 82px;
+  position: absolute;
+  top: 7px;
+  width: 7px;
+}
+
+.fleet .item-link-contact-us {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 18px;
+  left: 488px;
+  letter-spacing: 0.45px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.fleet .overlap-group {
+  height: 67px;
+  left: 1266px;
+  position: absolute;
+  top: 64px;
+  width: 498px;
+}
+
+.fleet .contact {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5.97px;
+  left: 0;
+  padding: 0px 72.48px 0.34px 0px;
+  position: absolute;
+  top: 4px;
+}
+
+.fleet .link {
+  color: #e7c13c;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.fleet .link-info {
+  color: #e5e5e5;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.fleet .element-f {
+  height: 67px;
+  left: 278px;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.fleet .text-wrapper {
+  color: #ffffff;
+  font-family: "Baloo Paaji-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 34px;
+  left: 348px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 18px;
+  width: 150px;
+}
+
+.fleet .logo {
+  height: 147px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.fleet .section {
+  height: 17px;
+  left: 382px;
+  position: absolute;
+  top: 234px;
+  width: 1140px;
+}
+
+.fleet .link-main {
+  color: #cdd5da;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17.4px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.fleet .text-wrapper-2 {
+  color: #cdd5da;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: 17.4px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.fleet .text-wrapper-3 {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 17.4px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.fleet .section-2 {
+  height: 2271px;
+  left: 382px;
+  position: absolute;
+  top: 316px;
+  width: 1140px;
+}
+
+.fleet .text-wrapper-4 {
+  color: #323232;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 42px;
+  left: 492px;
+  letter-spacing: 0;
+  line-height: 43.6px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+  width: 156px;
+}
+
+.fleet .fleet-list {
+  height: 2164px;
+  left: 0;
+  position: absolute;
+  top: 107px;
+  width: 1140px;
+}
+
+.fleet .div-fleet-car {
+  border: 1px solid;
+  border-color: #e6ebee;
+  border-radius: 6px;
+  height: 521px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 367px;
+}
+
+.fleet .div-2 {
+  height: 442px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 365px;
+}
+
+.fleet .text-wrapper-5 {
+  color: #b4c6d0;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 23px;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.fleet .overlap-group-2 {
+  height: 310px;
+  left: 0;
+  position: absolute;
+  top: 132px;
+  width: 365px;
+}
+
+.fleet .car-cadillac {
+  background-image: url(../public/staria-black.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.fleet .div-car-capacity {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 0px 42px;
+  position: absolute;
+  top: 208px;
+}
+
+.fleet .div-3 {
+  height: 30px;
+  position: relative;
+  width: 364.8px;
+}
+
+.fleet .text-wrapper-6 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.fleet .text-wrapper-7 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 229px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.fleet .text-wrapper-8 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 135px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.fleet .text-wrapper-9 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.fleet .div-car-name {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 0;
+  padding: 0px 42.03px 0px 40.77px;
+  position: absolute;
+  top: 65px;
+}
+
+.fleet .text-wrapper-10 {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.fleet .pseudo-2 {
+  background-color: #e7c13c;
+  height: 2px;
+  left: 139px;
+  position: absolute;
+  top: 40px;
+  width: 88px;
+}
+
+.fleet .reserve-now-wrapper {
+  background-color: #e6ebee;
+  border-radius: 0px 0px 6px 6px;
+  height: 77px;
+  left: 1px;
+  position: absolute;
+  top: 443px;
+  width: 365px;
+}
+
+.fleet .reserve-now {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 123px;
+  letter-spacing: 1.54px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.fleet .div-fleet-car-2 {
+  border: 1px solid;
+  border-color: #e6ebee;
+  border-radius: 6px;
+  height: 521px;
+  left: 387px;
+  position: absolute;
+  top: 0;
+  width: 367px;
+}
+
+.fleet .car-mersedes-gls-png {
+  background-image: url(/src/public/gmc-yukon.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.fleet .text-wrapper-11 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 235px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.fleet .div-car-name-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 0;
+  padding: 0px 98.41px 0px 98.39px;
+  position: absolute;
+  top: 65px;
+}
+
+.fleet .div-fleet-car-3 {
+  border: 1px solid;
+  border-color: #e6ebee;
+  border-radius: 6px;
+  height: 521px;
+  left: 767px;
+  position: absolute;
+  top: 0;
+  width: 367px;
+}
+
+.fleet .text-wrapper-12 {
+  color: #b4c6d0;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 23px;
+  left: 105px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  white-space: nowrap;
+  width: 158px;
+}
+
+.fleet .overlap {
+  height: 310px;
+  left: 1px;
+  position: absolute;
+  top: 133px;
+  width: 365px;
+}
+
+.fleet .car-cadillac-ct {
+  background-image: url(/src/public/camry-black.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.fleet .div-car-capacity-2 {
+  height: 102px;
+  left: 0;
+  position: absolute;
+  top: 208px;
+  width: 365px;
+}
+
+.fleet .div-car-passengers {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 365px;
+}
+
+.fleet .overlap-group-3 {
+  height: 30px;
+  left: 103px;
+  position: relative;
+  top: -1px;
+  width: 158px;
+}
+
+.fleet .text-wrapper-13 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.fleet .text-wrapper-14 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 121px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.fleet .div-car-suitcases {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 365px;
+}
+
+.fleet .overlap-2 {
+  height: 30px;
+  left: 123px;
+  position: relative;
+  top: -1px;
+  width: 120px;
+}
+
+.fleet .text-wrapper-15 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+  width: 104px;
+}
+
+.fleet .text-wrapper-16 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 104px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.fleet .div-car-name-3 {
+  height: 22px;
+  left: 1px;
+  position: absolute;
+  top: 66px;
+  width: 365px;
+}
+
+.fleet .toyota-camry-le {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 20px;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 281px;
+}
+
+.fleet .div-fleet-car-4 {
+  border: 1px solid;
+  border-color: #e6ebee;
+  border-radius: 6px;
+  height: 521px;
+  left: 7px;
+  position: absolute;
+  top: 541px;
+  width: 367px;
+}
+
+.fleet .link-2 {
+  height: 442px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 365px;
+}
+
+.fleet .text-wrapper-17 {
+  color: #b4c6d0;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 23px;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.fleet .bmw-jpg {
+  background-image: url(/src/public/genesis.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.fleet .text-wrapper-18 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 117px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.fleet .text-wrapper-19 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 223px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.fleet .text-wrapper-20 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 134px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.fleet .genesis-wrapper {
+  align-items: flex-start;
+  display: flex;
+  left: -64px;
+  padding: 0px 146.7px 0px 147.1px;
+  position: absolute;
+  top: 68px;
+  width: 182px;
+}
+
+.fleet .genesis {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-right: -296.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 185px;
+}
+
+.fleet .pseudo-3 {
+  background-color: #e7c13c;
+  height: 2px;
+  left: 139px;
+  position: absolute;
+  top: 103px;
+  width: 88px;
+}
+
+.fleet .div-fleet-car-5 {
+  border: 1px solid;
+  border-color: #e6ebee;
+  border-radius: 6px;
+  height: 521px;
+  left: 387px;
+  position: absolute;
+  top: 541px;
+  width: 367px;
+}
+
+.fleet .overlap-3 {
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 35px;
+  width: 293px;
+}
+
+.fleet .text-wrapper-21 {
+  color: #b4c6d0;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 23px;
+  left: 103px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.fleet .pseudo-wrapper {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 175px;
+}
+
+.fleet .pseudo-4 {
+  background-color: #e7c13c;
+  height: 2px;
+  left: 139px;
+  position: relative;
+  top: 40px;
+  width: 88px;
+}
+
+.fleet .toyota-hiace-tourer {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 44px;
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 207px;
+}
+
+.fleet .car-mercedes {
+  background-image: url(/src/public/hiace.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.fleet .text-wrapper-22 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.fleet .text-wrapper-23 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 210px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.fleet .div-fleet-car-6 {
+  border: 1px solid;
+  border-color: #e6ebee;
+  border-radius: 6px;
+  height: 521px;
+  left: 767px;
+  position: absolute;
+  top: 541px;
+  width: 367px;
+}
+
+.fleet .car-ford-transit {
+  background-image: url(/src/public/starex-black.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.fleet .text-wrapper-24 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.fleet .text-wrapper-25 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 230px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.fleet .text-wrapper-26 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 129px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.fleet .div-car-name-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 0;
+  padding: 0px 80px 0px 78.8px;
+  position: absolute;
+  top: 65px;
+}
+
+.fleet .div-fleet-car-7 {
+  border: 1px solid;
+  border-color: #e6ebee;
+  border-radius: 6px;
+  height: 521px;
+  left: 7px;
+  position: absolute;
+  top: 1082px;
+  width: 367px;
+}
+
+.fleet .premium-sedan {
+  color: #b4c6d0;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 23px;
+  left: 99px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.fleet .SPECIALTY-LIMO {
+  background-image: url(/src/public/sonata.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.fleet .text-wrapper-27 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 85px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.fleet .text-wrapper-28 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.fleet .overlap-4 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 64px;
+  width: 269px;
+}
+
+.fleet .div-wrapper {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 171px;
+}
+
+.fleet .hyundai-sonata {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 22px;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.fleet .div-fleet-car-8 {
+  border: 1px solid;
+  border-color: #e6ebee;
+  border-radius: 6px;
+  height: 521px;
+  left: 387px;
+  position: absolute;
+  top: 1082px;
+  width: 367px;
+}
+
+.fleet .jpg {
+  background-image: url(/src/public/land-cruiser.png);  
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.fleet .text-wrapper-29 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 109px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.fleet .div-car-name-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 40px;
+  padding: 0px 39.92px 0px 38.88px;
+  position: absolute;
+  top: 64px;
+}
+
+.fleet .pseudo-5 {
+  background-color: #e7c13c;
+  height: 2px;
+  left: 99px;
+  position: absolute;
+  top: 37px;
+  width: 88px;
+}
+
+.fleet .div-fleet-car-9 {
+  border: 1px solid;
+  border-color: #e6ebee;
+  border-radius: 6px;
+  height: 521px;
+  left: 767px;
+  position: absolute;
+  top: 1082px;
+  width: 367px;
+}
+
+.fleet .ultra-luxury-sedan {
+  color: #b4c6d0;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 23px;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  white-space: nowrap;
+  width: 207px;
+}
+
+.fleet .freightliner-bl {
+  background-image: url(/src/public/s-class.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.fleet .overlap-group-4 {
+  height: 30px;
+  left: 85px;
+  position: relative;
+  top: -1px;
+  width: 195px;
+}
+
+.fleet .text-wrapper-30 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 121px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.fleet .overlap-5 {
+  height: 30px;
+  left: 107px;
+  position: relative;
+  top: -1px;
+  width: 151px;
+}
+
+.fleet .text-wrapper-31 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 104px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.fleet .mercedes-s-class {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 20px;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 246px;
+}
+
+.fleet .div-fleet-car-10 {
+  border: 1px solid;
+  border-color: #e6ebee;
+  border-radius: 6px;
+  height: 521px;
+  left: 102px;
+  position: absolute;
+  top: 1623px;
+  width: 367px;
+}
+
+.fleet .off-road {
+  color: #b4c6d0;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 23px;
+  left: 130px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.fleet .party-bus-jpg {
+  background-image: url(/src/public/gmc-sierra.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.fleet .overlap-group-5 {
+  height: 30px;
+  left: 106px;
+  position: relative;
+  top: -1px;
+  width: 154px;
+}
+
+.fleet .text-wrapper-32 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 121px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.fleet .text-wrapper-33 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  white-space: nowrap;
+  width: 99px;
+}
+
+.fleet .gmc-sierra {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 20px;
+  left: 121px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 122px;
+}
+
+.fleet .div-fleet-car-11 {
+  border: 1px solid;
+  border-color: #e6ebee;
+  border-radius: 6px;
+  height: 521px;
+  left: 672px;
+  position: absolute;
+  top: 1623px;
+  width: 367px;
+}
+
+.fleet .text-wrapper-34 {
+  color: #b4c6d0;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 23px;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  white-space: nowrap;
+  width: 259px;
+}
+
+.fleet .MOTORCOACH {
+  background-image: url(/src/public/executive-motor-coach.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.fleet .overlap-group-6 {
+  height: 30px;
+  left: 107px;
+  position: relative;
+  top: -1px;
+  width: 150px;
+}
+
+.fleet .text-wrapper-35 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 121px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.fleet .overlap-6 {
+  height: 30px;
+  left: 108px;
+  position: relative;
+  top: -1px;
+  width: 150px;
+}
+
+.fleet .text-wrapper-36 {
+  color: #393838;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 30px;
+  left: 104px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.fleet .text-wrapper-37 {
+  color: #778892;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  height: 20px;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.fleet .footer {
+  background-color: #3a3b42;
+  height: 226px;
+  left: 0;
+  position: absolute;
+  top: 2722px;
+  width: 1903px;
+}
+
+.fleet .img {
+  height: 180px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: -7px;
+  width: 300px;
+}
+
+.fleet .text-wrapper-38 {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 22px;
+  left: 134px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 177px;
+}
+
+.fleet .saudi-business {
+  height: 110px;
+  left: 1631px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 112px;
+}
+
+.fleet .info {
+  height: 78px;
+  left: 382px;
+  position: absolute;
+  top: 74px;
+  width: 1140px;
+}
+
+.fleet .explore {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 54px;
+  left: 373px;
+  padding: 0px 0.01px 0px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.fleet .list {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0px 14.63px 0px 0px;
+  position: relative;
+}
+
+.fleet .text-wrapper-39 {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.fleet .text-wrapper-40 {
+  color: #ffffff;
+  font-family: "Zen Old Mincho-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.fleet .list-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0px 29.44px 0px 0px;
+  position: relative;
+}
+
+.fleet .list-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0px 38.7px 0px 0px;
+  position: relative;
+}
+
+.fleet .contact-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5.97px;
+  left: 906px;
+  padding: 0px 70.8px 0.34px 0px;
+  position: absolute;
+  top: -1px;
+}
